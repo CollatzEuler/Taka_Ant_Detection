@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "roi-ant-tracker"
+version = "0.1.0"
+description = "ROI-limited ant detection and tracking from annotated video crops."
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "opencv-python>=4.8",
+  "pillow>=10,<12",
+  "scipy>=1.10",
+  "torch>=2.0",
+  "torchvision>=0.15",
+]
+
+[project.scripts]
+roi-ant-track = "roi_ant_tracker.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
