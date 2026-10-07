@@ -1,1 +1,0 @@
-frame_index,time_seconds,track_id,roi_id,center_x,center_y,x1,y1,x2,y2,score,observed,track_age,missed_frames,assignment_cost,ambiguity_margin,switch_risk,review_reason

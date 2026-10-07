@@ -1,5 +1,0 @@
-event_id,frame_index,risk_score,reasons,track_ids
-1,4860,0.7,interior_track_birth,1
-2,5125,0.62,missing_detection,1
-3,5126,0.71,missing_detection,1
-4,5133,0.62,missing_detection,1
