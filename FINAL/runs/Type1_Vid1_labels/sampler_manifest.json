@@ -1,0 +1,26 @@
+{
+  "videos": [
+    ".\\Videos\\Type1_Vid1.mp4"
+  ],
+  "roi_jsons": [
+    ".\\FINAL\\runs\\Type1_Vid1_roi.json"
+  ],
+  "output_dir": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_labels",
+  "selected_frames_dir": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_labels\\selected_frames",
+  "frame_manifest_csv": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_labels\\frame_manifest.csv",
+  "candidate_count": 250,
+  "selected_count": 250,
+  "frame_step": 90,
+  "start_frame": 0,
+  "end_frame": null,
+  "start_seconds": null,
+  "end_seconds": null,
+  "duration_seconds": 300.0,
+  "thumbnail_size": [
+    96,
+    96
+  ],
+  "pca_components_used": 16,
+  "pca_explained_variance_ratio_sum": 0.9963864684104919,
+  "random_seed": 7
+}

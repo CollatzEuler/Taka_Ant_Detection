@@ -1,0 +1,40 @@
+{
+  "video": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+  "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+  "detector_checkpoint": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\checkpoints\\ant_detector_mobilenet_round2_reset_best.pt",
+  "frame_width": 3840,
+  "frame_height": 2160,
+  "fps": 60.0,
+  "start_frame": 4860,
+  "end_frame": 5340,
+  "start_seconds": 81.0,
+  "end_seconds": 89.0,
+  "duration_seconds": 8.0,
+  "roi_count": 2,
+  "rois": [
+    {
+      "id": "roi_001",
+      "x": 790,
+      "y": 1420,
+      "width": 300,
+      "height": 270
+    },
+    {
+      "id": "roi_002",
+      "x": 2528,
+      "y": 1379,
+      "width": 282,
+      "height": 265
+    }
+  ],
+  "minimum_track_hits": 3,
+  "duplicate_center_distance": 12.0,
+  "duplicate_overlap_threshold": 0.65,
+  "overlay_mode": "roi",
+  "overlay_paths": [
+    "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_track_roi_overlay\\tracking_overlay_roi_001.mp4",
+    "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_track_roi_overlay\\tracking_overlay_roi_002.mp4"
+  ],
+  "valid_track_count": 1,
+  "review_frame_count": 9
+}

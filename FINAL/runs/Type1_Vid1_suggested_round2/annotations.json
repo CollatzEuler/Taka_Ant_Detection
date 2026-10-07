@@ -1,0 +1,3768 @@
+{
+  "project_version": 1,
+  "project_type": "suggested_boxes",
+  "manifest_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\frame_manifest.csv",
+  "images_dir": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames",
+  "images": [
+    {
+      "image_id": 1,
+      "file_name": "Type1_Vid1_roi_001_frame_0001860_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0001860_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 1860,
+      "source_time_seconds": 31.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 1,
+      "annotations": [
+        {
+          "bbox": [
+            76.28,
+            0.0,
+            17.21,
+            13.5
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.051549
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "file_name": "Type1_Vid1_roi_001_frame_0001890_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0001890_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 1890,
+      "source_time_seconds": 31.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 2,
+      "annotations": [
+        {
+          "bbox": [
+            74.0,
+            0.0,
+            18.0,
+            8.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "file_name": "Type1_Vid1_roi_001_frame_0001920_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0001920_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 1920,
+      "source_time_seconds": 32.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 3,
+      "annotations": [
+        {
+          "bbox": [
+            73.0,
+            0.0,
+            20.0,
+            11.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "file_name": "Type1_Vid1_roi_001_frame_0001950_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0001950_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 1950,
+      "source_time_seconds": 32.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 4,
+      "annotations": [
+        {
+          "bbox": [
+            80.7,
+            0.35,
+            22.74,
+            13.26
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.576168
+        }
+      ]
+    },
+    {
+      "image_id": 5,
+      "file_name": "Type1_Vid1_roi_001_frame_0001980_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0001980_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 1980,
+      "source_time_seconds": 33.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 5,
+      "annotations": [
+        {
+          "bbox": [
+            88.15,
+            0.35,
+            19.27,
+            16.67
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.693541
+        }
+      ]
+    },
+    {
+      "image_id": 6,
+      "file_name": "Type1_Vid1_roi_001_frame_0002010_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002010_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2010,
+      "source_time_seconds": 33.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 6,
+      "annotations": [
+        {
+          "bbox": [
+            90.08,
+            2.24,
+            19.32,
+            16.56
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.730863
+        }
+      ]
+    },
+    {
+      "image_id": 7,
+      "file_name": "Type1_Vid1_roi_001_frame_0002040_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002040_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2040,
+      "source_time_seconds": 34.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 7,
+      "annotations": [
+        {
+          "bbox": [
+            98.21,
+            2.7,
+            21.56,
+            17.47
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.625
+        }
+      ]
+    },
+    {
+      "image_id": 8,
+      "file_name": "Type1_Vid1_roi_001_frame_0002070_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002070_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2070,
+      "source_time_seconds": 34.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 8,
+      "annotations": [
+        {
+          "bbox": [
+            101.01,
+            4.59,
+            19.19,
+            14.23
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.597935
+        }
+      ]
+    },
+    {
+      "image_id": 9,
+      "file_name": "Type1_Vid1_roi_001_frame_0002100_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002100_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2100,
+      "source_time_seconds": 35.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 9,
+      "annotations": [
+        {
+          "bbox": [
+            108.37,
+            0.0,
+            20.82,
+            19.14
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.430099
+        }
+      ]
+    },
+    {
+      "image_id": 10,
+      "file_name": "Type1_Vid1_roi_001_frame_0002130_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002130_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2130,
+      "source_time_seconds": 35.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 10,
+      "annotations": [
+        {
+          "bbox": [
+            112.67,
+            1.34,
+            18.65,
+            16.18
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.637253
+        }
+      ]
+    },
+    {
+      "image_id": 11,
+      "file_name": "Type1_Vid1_roi_001_frame_0002160_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002160_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2160,
+      "source_time_seconds": 36.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 11,
+      "annotations": [
+        {
+          "bbox": [
+            117.72,
+            1.13,
+            20.38,
+            21.4
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.545825
+        }
+      ]
+    },
+    {
+      "image_id": 12,
+      "file_name": "Type1_Vid1_roi_001_frame_0002190_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002190_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2190,
+      "source_time_seconds": 36.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 12,
+      "annotations": [
+        {
+          "bbox": [
+            119.01,
+            3.52,
+            22.64,
+            15.61
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.398202
+        }
+      ]
+    },
+    {
+      "image_id": 13,
+      "file_name": "Type1_Vid1_roi_001_frame_0002220_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002220_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2220,
+      "source_time_seconds": 37.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 13,
+      "annotations": [
+        {
+          "bbox": [
+            123.0,
+            7.0,
+            11.0,
+            17.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 14,
+      "file_name": "Type1_Vid1_roi_001_frame_0002250_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002250_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2250,
+      "source_time_seconds": 37.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 14,
+      "annotations": [
+        {
+          "bbox": [
+            121.0,
+            11.0,
+            13.0,
+            16.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 15,
+      "file_name": "Type1_Vid1_roi_001_frame_0002280_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002280_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2280,
+      "source_time_seconds": 38.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 15,
+      "annotations": [
+        {
+          "bbox": [
+            122.0,
+            13.0,
+            12.0,
+            19.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 16,
+      "file_name": "Type1_Vid1_roi_001_frame_0002310_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002310_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2310,
+      "source_time_seconds": 38.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 16,
+      "annotations": [
+        {
+          "bbox": [
+            122.0,
+            17.0,
+            12.0,
+            17.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 17,
+      "file_name": "Type1_Vid1_roi_001_frame_0002340_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002340_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2340,
+      "source_time_seconds": 39.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 17,
+      "annotations": [
+        {
+          "bbox": [
+            123.0,
+            23.0,
+            14.0,
+            19.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 18,
+      "file_name": "Type1_Vid1_roi_001_frame_0002370_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002370_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2370,
+      "source_time_seconds": 39.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 18,
+      "annotations": [
+        {
+          "bbox": [
+            123.0,
+            27.0,
+            13.0,
+            19.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 19,
+      "file_name": "Type1_Vid1_roi_001_frame_0002430_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002430_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2430,
+      "source_time_seconds": 40.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 19,
+      "annotations": [
+        {
+          "bbox": [
+            118.84,
+            35.34,
+            22.03,
+            21.34
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.452722
+        }
+      ]
+    },
+    {
+      "image_id": 20,
+      "file_name": "Type1_Vid1_roi_001_frame_0002460_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002460_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2460,
+      "source_time_seconds": 41.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 20,
+      "annotations": [
+        {
+          "bbox": [
+            117.76,
+            36.25,
+            22.69,
+            20.68
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.461244
+        }
+      ]
+    },
+    {
+      "image_id": 21,
+      "file_name": "Type1_Vid1_roi_001_frame_0002490_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002490_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2490,
+      "source_time_seconds": 41.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 21,
+      "annotations": [
+        {
+          "bbox": [
+            118.34,
+            36.7,
+            22.01,
+            21.74
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.437413
+        }
+      ]
+    },
+    {
+      "image_id": 22,
+      "file_name": "Type1_Vid1_roi_001_frame_0002520_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002520_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2520,
+      "source_time_seconds": 42.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 22,
+      "annotations": [
+        {
+          "bbox": [
+            122.0,
+            47.0,
+            14.0,
+            19.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 23,
+      "file_name": "Type1_Vid1_roi_001_frame_0002550_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002550_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2550,
+      "source_time_seconds": 42.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 23,
+      "annotations": [
+        {
+          "bbox": [
+            124.0,
+            51.0,
+            14.0,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 24,
+      "file_name": "Type1_Vid1_roi_001_frame_0002580_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002580_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2580,
+      "source_time_seconds": 43.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 24,
+      "annotations": [
+        {
+          "bbox": [
+            124.0,
+            53.0,
+            20.0,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 25,
+      "file_name": "Type1_Vid1_roi_001_frame_0002610_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002610_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2610,
+      "source_time_seconds": 43.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 25,
+      "annotations": [
+        {
+          "bbox": [
+            126.35,
+            59.51,
+            21.79,
+            14.64
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.192389
+        }
+      ]
+    },
+    {
+      "image_id": 26,
+      "file_name": "Type1_Vid1_roi_001_frame_0002640_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002640_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2640,
+      "source_time_seconds": 44.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 26,
+      "annotations": [
+        {
+          "bbox": [
+            134.0,
+            59.0,
+            21.0,
+            12.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 27,
+      "file_name": "Type1_Vid1_roi_001_frame_0002670_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002670_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2670,
+      "source_time_seconds": 44.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 27,
+      "annotations": [
+        {
+          "bbox": [
+            134.93,
+            59.32,
+            22.16,
+            15.11
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.445264
+        }
+      ]
+    },
+    {
+      "image_id": 28,
+      "file_name": "Type1_Vid1_roi_001_frame_0002730_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002730_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2730,
+      "source_time_seconds": 45.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 28,
+      "annotations": [
+        {
+          "bbox": [
+            145.35,
+            54.69,
+            17.12,
+            14.29
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.553927
+        }
+      ]
+    },
+    {
+      "image_id": 29,
+      "file_name": "Type1_Vid1_roi_001_frame_0002760_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002760_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2760,
+      "source_time_seconds": 46.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 29,
+      "annotations": [
+        {
+          "bbox": [
+            144.79,
+            50.62,
+            20.86,
+            17.74
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.594543
+        }
+      ]
+    },
+    {
+      "image_id": 30,
+      "file_name": "Type1_Vid1_roi_001_frame_0002790_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002790_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2790,
+      "source_time_seconds": 46.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 30,
+      "annotations": [
+        {
+          "bbox": [
+            144.98,
+            52.55,
+            19.71,
+            17.02
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.540997
+        }
+      ]
+    },
+    {
+      "image_id": 31,
+      "file_name": "Type1_Vid1_roi_001_frame_0002820_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002820_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2820,
+      "source_time_seconds": 47.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 31,
+      "annotations": [
+        {
+          "bbox": [
+            144.97,
+            52.54,
+            19.71,
+            16.41
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.662947
+        }
+      ]
+    },
+    {
+      "image_id": 32,
+      "file_name": "Type1_Vid1_roi_001_frame_0002850_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002850_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2850,
+      "source_time_seconds": 47.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 32,
+      "annotations": [
+        {
+          "bbox": [
+            146.2,
+            53.61,
+            18.63,
+            15.09
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.689252
+        }
+      ]
+    },
+    {
+      "image_id": 33,
+      "file_name": "Type1_Vid1_roi_001_frame_0002880_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002880_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2880,
+      "source_time_seconds": 48.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 33,
+      "annotations": [
+        {
+          "bbox": [
+            147.43,
+            53.84,
+            17.27,
+            14.49
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.690423
+        }
+      ]
+    },
+    {
+      "image_id": 34,
+      "file_name": "Type1_Vid1_roi_001_frame_0002910_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002910_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2910,
+      "source_time_seconds": 48.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 34,
+      "annotations": [
+        {
+          "bbox": [
+            148.34,
+            52.74,
+            18.91,
+            16.29
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.618725
+        }
+      ]
+    },
+    {
+      "image_id": 35,
+      "file_name": "Type1_Vid1_roi_001_frame_0002940_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002940_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2940,
+      "source_time_seconds": 49.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 35,
+      "annotations": [
+        {
+          "bbox": [
+            147.45,
+            53.5,
+            18.66,
+            14.32
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.405506
+        }
+      ]
+    },
+    {
+      "image_id": 36,
+      "file_name": "Type1_Vid1_roi_001_frame_0002970_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0002970_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 2970,
+      "source_time_seconds": 49.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 36,
+      "annotations": [
+        {
+          "bbox": [
+            149.95,
+            52.84,
+            16.87,
+            15.58
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.603354
+        }
+      ]
+    },
+    {
+      "image_id": 37,
+      "file_name": "Type1_Vid1_roi_001_frame_0003000_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003000_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3000,
+      "source_time_seconds": 50.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 37,
+      "annotations": [
+        {
+          "bbox": [
+            148.85,
+            51.54,
+            19.03,
+            17.52
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.554999
+        }
+      ]
+    },
+    {
+      "image_id": 38,
+      "file_name": "Type1_Vid1_roi_001_frame_0003030_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003030_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3030,
+      "source_time_seconds": 50.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 38,
+      "annotations": [
+        {
+          "bbox": [
+            146.74,
+            52.82,
+            18.73,
+            15.81
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.714623
+        }
+      ]
+    },
+    {
+      "image_id": 39,
+      "file_name": "Type1_Vid1_roi_001_frame_0003060_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003060_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3060,
+      "source_time_seconds": 51.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 39,
+      "annotations": [
+        {
+          "bbox": [
+            145.08,
+            51.1,
+            19.51,
+            16.74
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.544431
+        }
+      ]
+    },
+    {
+      "image_id": 40,
+      "file_name": "Type1_Vid1_roi_001_frame_0003090_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003090_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3090,
+      "source_time_seconds": 51.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 40,
+      "annotations": [
+        {
+          "bbox": [
+            139.96,
+            48.03,
+            16.09,
+            18.69
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.395421
+        }
+      ]
+    },
+    {
+      "image_id": 41,
+      "file_name": "Type1_Vid1_roi_001_frame_0003120_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003120_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3120,
+      "source_time_seconds": 52.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 41,
+      "annotations": [
+        {
+          "bbox": [
+            135.23,
+            49.48,
+            19.93,
+            18.68
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.671136
+        }
+      ]
+    },
+    {
+      "image_id": 42,
+      "file_name": "Type1_Vid1_roi_001_frame_0003150_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003150_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3150,
+      "source_time_seconds": 52.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 42,
+      "annotations": [
+        {
+          "bbox": [
+            126.32,
+            59.45,
+            21.93,
+            15.72
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.469445
+        }
+      ]
+    },
+    {
+      "image_id": 43,
+      "file_name": "Type1_Vid1_roi_001_frame_0003180_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003180_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3180,
+      "source_time_seconds": 53.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 43,
+      "annotations": [
+        {
+          "bbox": [
+            118.21,
+            60.53,
+            22.33,
+            18.71
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.629614
+        }
+      ]
+    },
+    {
+      "image_id": 44,
+      "file_name": "Type1_Vid1_roi_001_frame_0003210_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003210_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3210,
+      "source_time_seconds": 53.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 44,
+      "annotations": [
+        {
+          "bbox": [
+            113.26,
+            59.8,
+            21.89,
+            21.27
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.317582
+        }
+      ]
+    },
+    {
+      "image_id": 45,
+      "file_name": "Type1_Vid1_roi_001_frame_0003240_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003240_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3240,
+      "source_time_seconds": 54.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 45,
+      "annotations": [
+        {
+          "bbox": [
+            103.55,
+            70.69,
+            22.85,
+            16.23
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.501307
+        }
+      ]
+    },
+    {
+      "image_id": 46,
+      "file_name": "Type1_Vid1_roi_001_frame_0003270_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003270_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3270,
+      "source_time_seconds": 54.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 46,
+      "annotations": [
+        {
+          "bbox": [
+            101.92,
+            73.01,
+            19.59,
+            17.32
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.141405
+        }
+      ]
+    },
+    {
+      "image_id": 47,
+      "file_name": "Type1_Vid1_roi_001_frame_0003300_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003300_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3300,
+      "source_time_seconds": 55.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 47,
+      "annotations": [
+        {
+          "bbox": [
+            100.09,
+            76.45,
+            18.61,
+            18.64
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.187009
+        }
+      ]
+    },
+    {
+      "image_id": 48,
+      "file_name": "Type1_Vid1_roi_001_frame_0003330_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003330_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3330,
+      "source_time_seconds": 55.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 48,
+      "annotations": [
+        {
+          "bbox": [
+            93.97,
+            80.22,
+            20.45,
+            21.37
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.369752
+        }
+      ]
+    },
+    {
+      "image_id": 49,
+      "file_name": "Type1_Vid1_roi_001_frame_0003390_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003390_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3390,
+      "source_time_seconds": 56.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 49,
+      "annotations": [
+        {
+          "bbox": [
+            95.48,
+            90.86,
+            10.53,
+            18.72
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.638981
+        }
+      ]
+    },
+    {
+      "image_id": 50,
+      "file_name": "Type1_Vid1_roi_001_frame_0003420_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003420_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3420,
+      "source_time_seconds": 57.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 50,
+      "annotations": [
+        {
+          "bbox": [
+            89.0,
+            97.0,
+            16.0,
+            17.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 51,
+      "file_name": "Type1_Vid1_roi_001_frame_0003450_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003450_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3450,
+      "source_time_seconds": 57.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 51,
+      "annotations": [
+        {
+          "bbox": [
+            87.58,
+            97.83,
+            22.53,
+            22.15
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.12544
+        }
+      ]
+    },
+    {
+      "image_id": 52,
+      "file_name": "Type1_Vid1_roi_001_frame_0003480_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003480_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3480,
+      "source_time_seconds": 58.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 52,
+      "annotations": [
+        {
+          "bbox": [
+            82.38,
+            100.58,
+            22.98,
+            23.47
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.075292
+        }
+      ]
+    },
+    {
+      "image_id": 53,
+      "file_name": "Type1_Vid1_roi_001_frame_0003510_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003510_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3510,
+      "source_time_seconds": 58.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 53,
+      "annotations": [
+        {
+          "bbox": [
+            83.95,
+            104.66,
+            21.1,
+            16.44
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.054778
+        }
+      ]
+    },
+    {
+      "image_id": 54,
+      "file_name": "Type1_Vid1_roi_001_frame_0003660_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003660_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3660,
+      "source_time_seconds": 61.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 54,
+      "annotations": [
+        {
+          "bbox": [
+            92.0,
+            109.0,
+            8.0,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 55,
+      "file_name": "Type1_Vid1_roi_001_frame_0003690_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003690_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3690,
+      "source_time_seconds": 61.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 55,
+      "annotations": [
+        {
+          "bbox": [
+            84.83,
+            110.51,
+            18.92,
+            21.82
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.1614
+        }
+      ]
+    },
+    {
+      "image_id": 56,
+      "file_name": "Type1_Vid1_roi_001_frame_0003720_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003720_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3720,
+      "source_time_seconds": 62.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 56,
+      "annotations": [
+        {
+          "bbox": [
+            89.0,
+            113.0,
+            13.0,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 57,
+      "file_name": "Type1_Vid1_roi_001_frame_0003750_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003750_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3750,
+      "source_time_seconds": 62.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 57,
+      "annotations": [
+        {
+          "bbox": [
+            89.18,
+            115.51,
+            20.25,
+            19.28
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.31888
+        }
+      ]
+    },
+    {
+      "image_id": 58,
+      "file_name": "Type1_Vid1_roi_001_frame_0003780_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003780_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3780,
+      "source_time_seconds": 63.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 58,
+      "annotations": [
+        {
+          "bbox": [
+            89.79,
+            119.59,
+            20.19,
+            22.33
+          ],
+          "category": "ant",
+          "identity": null,
+          "suggested": true,
+          "score": 0.454227
+        }
+      ]
+    },
+    {
+      "image_id": 59,
+      "file_name": "Type1_Vid1_roi_001_frame_0003810_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003810_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3810,
+      "source_time_seconds": 63.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 59,
+      "annotations": [
+        {
+          "bbox": [
+            90.0,
+            123.0,
+            14.0,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 60,
+      "file_name": "Type1_Vid1_roi_001_frame_0003840_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003840_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3840,
+      "source_time_seconds": 64.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 60,
+      "annotations": [
+        {
+          "bbox": [
+            88.57,
+            121.17,
+            22.71,
+            21.99
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.538085
+        }
+      ]
+    },
+    {
+      "image_id": 61,
+      "file_name": "Type1_Vid1_roi_001_frame_0003870_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003870_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3870,
+      "source_time_seconds": 64.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 61,
+      "annotations": [
+        {
+          "bbox": [
+            94.45,
+            124.39,
+            11.97,
+            17.98
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.555223
+        }
+      ]
+    },
+    {
+      "image_id": 62,
+      "file_name": "Type1_Vid1_roi_001_frame_0003900_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003900_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3900,
+      "source_time_seconds": 65.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 62,
+      "annotations": [
+        {
+          "bbox": [
+            94.8,
+            124.61,
+            11.81,
+            18.16
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.578464
+        }
+      ]
+    },
+    {
+      "image_id": 63,
+      "file_name": "Type1_Vid1_roi_001_frame_0003930_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003930_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3930,
+      "source_time_seconds": 65.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 63,
+      "annotations": [
+        {
+          "bbox": [
+            94.39,
+            124.23,
+            11.87,
+            18.23
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.586134
+        }
+      ]
+    },
+    {
+      "image_id": 64,
+      "file_name": "Type1_Vid1_roi_001_frame_0003960_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003960_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3960,
+      "source_time_seconds": 66.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 64,
+      "annotations": [
+        {
+          "bbox": [
+            95.01,
+            124.44,
+            10.82,
+            17.47
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.3882
+        }
+      ]
+    },
+    {
+      "image_id": 65,
+      "file_name": "Type1_Vid1_roi_001_frame_0003990_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0003990_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 3990,
+      "source_time_seconds": 66.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 65,
+      "annotations": [
+        {
+          "bbox": [
+            93.0,
+            125.0,
+            14.0,
+            17.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 66,
+      "file_name": "Type1_Vid1_roi_001_frame_0004020_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004020_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4020,
+      "source_time_seconds": 67.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 66,
+      "annotations": [
+        {
+          "bbox": [
+            89.12,
+            121.3,
+            20.9,
+            20.95
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.352635
+        }
+      ]
+    },
+    {
+      "image_id": 67,
+      "file_name": "Type1_Vid1_roi_001_frame_0004050_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004050_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4050,
+      "source_time_seconds": 67.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 67,
+      "annotations": [
+        {
+          "bbox": [
+            94.5,
+            124.72,
+            11.28,
+            18.52
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.135571
+        }
+      ]
+    },
+    {
+      "image_id": 68,
+      "file_name": "Type1_Vid1_roi_001_frame_0004080_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004080_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4080,
+      "source_time_seconds": 68.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 68,
+      "annotations": [
+        {
+          "bbox": [
+            94.3,
+            124.83,
+            11.74,
+            18.29
+          ],
+          "category": "ant",
+          "identity": null,
+          "suggested": true,
+          "score": 0.322391
+        }
+      ]
+    },
+    {
+      "image_id": 69,
+      "file_name": "Type1_Vid1_roi_001_frame_0004110_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004110_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4110,
+      "source_time_seconds": 68.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 69,
+      "annotations": [
+        {
+          "bbox": [
+            95.34,
+            124.6,
+            10.2,
+            18.44
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.183254
+        }
+      ]
+    },
+    {
+      "image_id": 70,
+      "file_name": "Type1_Vid1_roi_001_frame_0004140_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004140_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4140,
+      "source_time_seconds": 69.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 70,
+      "annotations": [
+        {
+          "bbox": [
+            95.43,
+            124.26,
+            10.38,
+            18.34
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.209471
+        }
+      ]
+    },
+    {
+      "image_id": 71,
+      "file_name": "Type1_Vid1_roi_001_frame_0004170_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004170_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4170,
+      "source_time_seconds": 69.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 71,
+      "annotations": [
+        {
+          "bbox": [
+            92.0,
+            125.0,
+            17.0,
+            14.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 72,
+      "file_name": "Type1_Vid1_roi_001_frame_0004200_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004200_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4200,
+      "source_time_seconds": 70.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 72,
+      "annotations": [
+        {
+          "bbox": [
+            93.0,
+            126.0,
+            17.0,
+            12.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 73,
+      "file_name": "Type1_Vid1_roi_001_frame_0004230_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004230_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4230,
+      "source_time_seconds": 70.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 73,
+      "annotations": [
+        {
+          "bbox": [
+            93.0,
+            127.0,
+            17.0,
+            12.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 74,
+      "file_name": "Type1_Vid1_roi_001_frame_0004260_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004260_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4260,
+      "source_time_seconds": 71.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 74,
+      "annotations": [
+        {
+          "bbox": [
+            94.69,
+            124.37,
+            11.53,
+            18.03
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.489388
+        }
+      ]
+    },
+    {
+      "image_id": 75,
+      "file_name": "Type1_Vid1_roi_001_frame_0004290_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004290_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4290,
+      "source_time_seconds": 71.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 75,
+      "annotations": [
+        {
+          "bbox": [
+            95.46,
+            124.5,
+            10.93,
+            18.36
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.444917
+        }
+      ]
+    },
+    {
+      "image_id": 76,
+      "file_name": "Type1_Vid1_roi_001_frame_0004320_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004320_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4320,
+      "source_time_seconds": 72.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 76,
+      "annotations": [
+        {
+          "bbox": [
+            90.7,
+            123.78,
+            21.51,
+            19.2
+          ],
+          "category": "ant",
+          "identity": null,
+          "suggested": true,
+          "score": 0.451383
+        }
+      ]
+    },
+    {
+      "image_id": 77,
+      "file_name": "Type1_Vid1_roi_001_frame_0004350_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004350_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4350,
+      "source_time_seconds": 72.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 77,
+      "annotations": [
+        {
+          "bbox": [
+            96.0,
+            125.0,
+            18.0,
+            14.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 78,
+      "file_name": "Type1_Vid1_roi_001_frame_0004380_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004380_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4380,
+      "source_time_seconds": 73.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 78,
+      "annotations": [
+        {
+          "bbox": [
+            96.0,
+            124.0,
+            20.0,
+            16.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 79,
+      "file_name": "Type1_Vid1_roi_001_frame_0004410_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004410_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4410,
+      "source_time_seconds": 73.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 79,
+      "annotations": [
+        {
+          "bbox": [
+            99.0,
+            127.0,
+            19.0,
+            12.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 80,
+      "file_name": "Type1_Vid1_roi_001_frame_0004440_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004440_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4440,
+      "source_time_seconds": 74.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 80,
+      "annotations": [
+        {
+          "bbox": [
+            100.0,
+            127.0,
+            19.0,
+            12.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 81,
+      "file_name": "Type1_Vid1_roi_001_frame_0004470_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004470_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4470,
+      "source_time_seconds": 74.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 81,
+      "annotations": [
+        {
+          "bbox": [
+            101.0,
+            128.0,
+            18.0,
+            13.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 82,
+      "file_name": "Type1_Vid1_roi_001_frame_0004500_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004500_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4500,
+      "source_time_seconds": 75.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 82,
+      "annotations": [
+        {
+          "bbox": [
+            101.0,
+            129.0,
+            19.0,
+            11.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 83,
+      "file_name": "Type1_Vid1_roi_001_frame_0004530_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004530_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4530,
+      "source_time_seconds": 75.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 83,
+      "annotations": [
+        {
+          "bbox": [
+            100.0,
+            127.0,
+            20.0,
+            13.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 84,
+      "file_name": "Type1_Vid1_roi_001_frame_0004560_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004560_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4560,
+      "source_time_seconds": 76.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 84,
+      "annotations": [
+        {
+          "bbox": [
+            102.53,
+            129.95,
+            18.35,
+            10.41
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.497636
+        }
+      ]
+    },
+    {
+      "image_id": 85,
+      "file_name": "Type1_Vid1_roi_001_frame_0004590_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004590_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4590,
+      "source_time_seconds": 76.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 85,
+      "annotations": [
+        {
+          "bbox": [
+            101.96,
+            130.04,
+            18.53,
+            10.62
+          ],
+          "category": "ant",
+          "identity": null,
+          "suggested": true,
+          "score": 0.553502
+        }
+      ]
+    },
+    {
+      "image_id": 86,
+      "file_name": "Type1_Vid1_roi_001_frame_0004620_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004620_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4620,
+      "source_time_seconds": 77.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 86,
+      "annotations": [
+        {
+          "bbox": [
+            104.14,
+            128.57,
+            14.53,
+            12.66
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.4065
+        }
+      ]
+    },
+    {
+      "image_id": 87,
+      "file_name": "Type1_Vid1_roi_001_frame_0004650_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004650_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4650,
+      "source_time_seconds": 77.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 87,
+      "annotations": [
+        {
+          "bbox": [
+            104.14,
+            128.25,
+            14.63,
+            13.33
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.41724
+        }
+      ]
+    },
+    {
+      "image_id": 88,
+      "file_name": "Type1_Vid1_roi_001_frame_0004680_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004680_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4680,
+      "source_time_seconds": 78.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 88,
+      "annotations": [
+        {
+          "bbox": [
+            104.32,
+            128.26,
+            14.34,
+            13.07
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.366609
+        }
+      ]
+    },
+    {
+      "image_id": 89,
+      "file_name": "Type1_Vid1_roi_001_frame_0004710_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004710_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4710,
+      "source_time_seconds": 78.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 89,
+      "annotations": [
+        {
+          "bbox": [
+            103.0,
+            127.0,
+            17.0,
+            12.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 90,
+      "file_name": "Type1_Vid1_roi_001_frame_0004740_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004740_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4740,
+      "source_time_seconds": 79.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 90,
+      "annotations": [
+        {
+          "bbox": [
+            104.11,
+            128.15,
+            14.19,
+            13.78
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.465316
+        }
+      ]
+    },
+    {
+      "image_id": 91,
+      "file_name": "Type1_Vid1_roi_001_frame_0004770_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004770_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4770,
+      "source_time_seconds": 79.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 91,
+      "annotations": [
+        {
+          "bbox": [
+            104.0,
+            125.0,
+            16.0,
+            16.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 92,
+      "file_name": "Type1_Vid1_roi_001_frame_0004800_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004800_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4800,
+      "source_time_seconds": 80.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 92,
+      "annotations": [
+        {
+          "bbox": [
+            104.0,
+            126.0,
+            18.0,
+            11.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 93,
+      "file_name": "Type1_Vid1_roi_001_frame_0004830_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004830_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4830,
+      "source_time_seconds": 80.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 93,
+      "annotations": [
+        {
+          "bbox": [
+            103.0,
+            127.0,
+            21.0,
+            11.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 94,
+      "file_name": "Type1_Vid1_roi_001_frame_0004860_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004860_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4860,
+      "source_time_seconds": 81.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 94,
+      "annotations": [
+        {
+          "bbox": [
+            103.75,
+            129.99,
+            18.52,
+            9.91
+          ],
+          "category": "ant",
+          "identity": null,
+          "suggested": true,
+          "score": 0.484406
+        }
+      ]
+    },
+    {
+      "image_id": 95,
+      "file_name": "Type1_Vid1_roi_001_frame_0004890_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004890_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4890,
+      "source_time_seconds": 81.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 95,
+      "annotations": [
+        {
+          "bbox": [
+            104.0,
+            127.0,
+            19.0,
+            14.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 96,
+      "file_name": "Type1_Vid1_roi_001_frame_0004920_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004920_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4920,
+      "source_time_seconds": 82.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 96,
+      "annotations": [
+        {
+          "bbox": [
+            104.0,
+            127.0,
+            16.0,
+            15.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 97,
+      "file_name": "Type1_Vid1_roi_001_frame_0004950_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004950_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4950,
+      "source_time_seconds": 82.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 97,
+      "annotations": [
+        {
+          "bbox": [
+            104.0,
+            126.0,
+            14.0,
+            19.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 98,
+      "file_name": "Type1_Vid1_roi_001_frame_0004980_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0004980_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 4980,
+      "source_time_seconds": 83.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 98,
+      "annotations": [
+        {
+          "bbox": [
+            105.0,
+            127.0,
+            12.0,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 99,
+      "file_name": "Type1_Vid1_roi_001_frame_0005010_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005010_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5010,
+      "source_time_seconds": 83.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 99,
+      "annotations": [
+        {
+          "bbox": [
+            104.95,
+            128.69,
+            12.8,
+            14.76
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.33926
+        }
+      ]
+    },
+    {
+      "image_id": 100,
+      "file_name": "Type1_Vid1_roi_001_frame_0005040_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005040_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5040,
+      "source_time_seconds": 84.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 100,
+      "annotations": [
+        {
+          "bbox": [
+            104.0,
+            131.0,
+            11.0,
+            20.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 101,
+      "file_name": "Type1_Vid1_roi_001_frame_0005070_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005070_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5070,
+      "source_time_seconds": 84.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 101,
+      "annotations": [
+        {
+          "bbox": [
+            105.34,
+            134.82,
+            10.34,
+            19.21
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.17216
+        }
+      ]
+    },
+    {
+      "image_id": 102,
+      "file_name": "Type1_Vid1_roi_001_frame_0005100_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005100_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5100,
+      "source_time_seconds": 85.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 102,
+      "annotations": [
+        {
+          "bbox": [
+            100.0,
+            139.0,
+            14.0,
+            17.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 103,
+      "file_name": "Type1_Vid1_roi_001_frame_0005160_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005160_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5160,
+      "source_time_seconds": 86.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 103,
+      "annotations": [
+        {
+          "bbox": [
+            94.92,
+            147.82,
+            11.47,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.636709
+        }
+      ]
+    },
+    {
+      "image_id": 104,
+      "file_name": "Type1_Vid1_roi_001_frame_0005190_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005190_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5190,
+      "source_time_seconds": 86.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 104,
+      "annotations": [
+        {
+          "bbox": [
+            95.48,
+            148.44,
+            10.65,
+            19.53
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.360957
+        }
+      ]
+    },
+    {
+      "image_id": 105,
+      "file_name": "Type1_Vid1_roi_001_frame_0005220_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005220_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5220,
+      "source_time_seconds": 87.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 105,
+      "annotations": [
+        {
+          "bbox": [
+            91.79,
+            147.86,
+            18.48,
+            19.77
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.618701
+        }
+      ]
+    },
+    {
+      "image_id": 106,
+      "file_name": "Type1_Vid1_roi_001_frame_0005250_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005250_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5250,
+      "source_time_seconds": 87.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 106,
+      "annotations": [
+        {
+          "bbox": [
+            96.0,
+            151.0,
+            11.0,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 107,
+      "file_name": "Type1_Vid1_roi_001_frame_0005280_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005280_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5280,
+      "source_time_seconds": 88.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 107,
+      "annotations": [
+        {
+          "bbox": [
+            96.0,
+            151.0,
+            11.0,
+            22.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 108,
+      "file_name": "Type1_Vid1_roi_001_frame_0005310_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005310_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5310,
+      "source_time_seconds": 88.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 108,
+      "annotations": [
+        {
+          "bbox": [
+            95.72,
+            156.98,
+            9.95,
+            17.95
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.086786
+        }
+      ]
+    },
+    {
+      "image_id": 109,
+      "file_name": "Type1_Vid1_roi_001_frame_0005340_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005340_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5340,
+      "source_time_seconds": 89.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 109,
+      "annotations": [
+        {
+          "bbox": [
+            95.19,
+            157.7,
+            10.54,
+            17.56
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.33645
+        }
+      ]
+    },
+    {
+      "image_id": 110,
+      "file_name": "Type1_Vid1_roi_001_frame_0005370_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005370_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5370,
+      "source_time_seconds": 89.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 110,
+      "annotations": [
+        {
+          "bbox": [
+            93.13,
+            161.39,
+            13.28,
+            14.92
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.362059
+        }
+      ]
+    },
+    {
+      "image_id": 111,
+      "file_name": "Type1_Vid1_roi_001_frame_0005400_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005400_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5400,
+      "source_time_seconds": 90.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 111,
+      "annotations": [
+        {
+          "bbox": [
+            93.0,
+            163.0,
+            10.0,
+            20.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 112,
+      "file_name": "Type1_Vid1_roi_001_frame_0005430_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005430_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5430,
+      "source_time_seconds": 90.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 112,
+      "annotations": [
+        {
+          "bbox": [
+            91.0,
+            165.0,
+            12.0,
+            21.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 113,
+      "file_name": "Type1_Vid1_roi_001_frame_0005460_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005460_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5460,
+      "source_time_seconds": 91.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 113,
+      "annotations": [
+        {
+          "bbox": [
+            93.0,
+            171.0,
+            13.0,
+            21.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 114,
+      "file_name": "Type1_Vid1_roi_002_frame_0005460_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_002_frame_0005460_suggested.png",
+      "width": 282,
+      "height": 265,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5460,
+      "source_time_seconds": 91.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_002",
+      "roi_x": 2528,
+      "roi_y": 1379,
+      "roi_width": 282,
+      "roi_height": 265,
+      "cluster_id": 114,
+      "annotations": []
+    },
+    {
+      "image_id": 115,
+      "file_name": "Type1_Vid1_roi_001_frame_0005490_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005490_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5490,
+      "source_time_seconds": 91.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 115,
+      "annotations": [
+        {
+          "bbox": [
+            94.0,
+            179.0,
+            15.0,
+            17.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 116,
+      "file_name": "Type1_Vid1_roi_001_frame_0005520_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005520_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5520,
+      "source_time_seconds": 92.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 116,
+      "annotations": [
+        {
+          "bbox": [
+            96.0,
+            180.0,
+            20.0,
+            16.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 117,
+      "file_name": "Type1_Vid1_roi_001_frame_0005550_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005550_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5550,
+      "source_time_seconds": 92.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 117,
+      "annotations": [
+        {
+          "bbox": [
+            99.0,
+            183.0,
+            17.0,
+            16.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 118,
+      "file_name": "Type1_Vid1_roi_001_frame_0005580_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005580_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5580,
+      "source_time_seconds": 93.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 118,
+      "annotations": [
+        {
+          "bbox": [
+            100.0,
+            185.0,
+            13.0,
+            19.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 119,
+      "file_name": "Type1_Vid1_roi_001_frame_0005610_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005610_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5610,
+      "source_time_seconds": 93.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 119,
+      "annotations": [
+        {
+          "bbox": [
+            98.0,
+            187.0,
+            15.0,
+            20.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 120,
+      "file_name": "Type1_Vid1_roi_001_frame_0005640_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005640_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5640,
+      "source_time_seconds": 94.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 120,
+      "annotations": [
+        {
+          "bbox": [
+            99.0,
+            193.0,
+            11.0,
+            21.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 121,
+      "file_name": "Type1_Vid1_roi_001_frame_0005670_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005670_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5670,
+      "source_time_seconds": 94.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 121,
+      "annotations": [
+        {
+          "bbox": [
+            94.97,
+            199.71,
+            13.58,
+            21.09
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.42897
+        }
+      ]
+    },
+    {
+      "image_id": 122,
+      "file_name": "Type1_Vid1_roi_001_frame_0005700_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0005700_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 5700,
+      "source_time_seconds": 95.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 122,
+      "annotations": [
+        {
+          "bbox": [
+            90.84,
+            207.18,
+            16.96,
+            13.67
+          ],
+          "category": "ant",
+          "identity": "1",
+          "suggested": true,
+          "score": 0.441935
+        }
+      ]
+    },
+    {
+      "image_id": 123,
+      "file_name": "Type1_Vid1_roi_001_frame_0006030_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0006030_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 6030,
+      "source_time_seconds": 100.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 123,
+      "annotations": [
+        {
+          "bbox": [
+            52.0,
+            234.0,
+            16.0,
+            15.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 124,
+      "file_name": "Type1_Vid1_roi_001_frame_0006060_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0006060_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 6060,
+      "source_time_seconds": 101.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 124,
+      "annotations": [
+        {
+          "bbox": [
+            47.0,
+            241.0,
+            15.0,
+            18.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    },
+    {
+      "image_id": 125,
+      "file_name": "Type1_Vid1_roi_001_frame_0006090_suggested.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_suggested_round2\\selected_frames\\Type1_Vid1_roi_001_frame_0006090_suggested.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 6090,
+      "source_time_seconds": 101.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 125,
+      "annotations": [
+        {
+          "bbox": [
+            50.0,
+            256.0,
+            14.0,
+            14.0
+          ],
+          "category": "ant",
+          "identity": "1"
+        }
+      ]
+    }
+  ]
+}

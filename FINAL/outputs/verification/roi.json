@@ -1,0 +1,18 @@
+{
+  "roi_version": 1,
+  "source_video": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+  "representative_frame_index": 0,
+  "frame_width": 3840,
+  "frame_height": 2160,
+  "representative_frame": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\outputs\\verification\\roi_representative.png",
+  "preview_image": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\outputs\\verification\\roi_preview.png",
+  "rectangles": [
+    {
+      "id": "roi_001",
+      "x": 790,
+      "y": 1420,
+      "width": 300,
+      "height": 270
+    }
+  ]
+}

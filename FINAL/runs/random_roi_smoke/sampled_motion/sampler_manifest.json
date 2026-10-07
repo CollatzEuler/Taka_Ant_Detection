@@ -1,0 +1,83 @@
+{
+  "sampler": "random_roi_pca_motion_v1",
+  "video": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+  "reference_roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_roi.json",
+  "exclusion_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\random_roi_smoke\\exclusions.json",
+  "output_dir": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\random_roi_smoke\\sampled_motion",
+  "selected_frames_dir": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\random_roi_smoke\\sampled_motion\\selected_frames",
+  "frame_manifest_csv": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\random_roi_smoke\\sampled_motion\\frame_manifest.csv",
+  "selection_preview": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\random_roi_smoke\\sampled_motion\\selection_preview.jpg",
+  "reported_total_frames": 11290,
+  "fps": 60.0,
+  "selected_time_window_seconds": [
+    0.0,
+    120.0
+  ],
+  "beginning_seconds": 30.0,
+  "requested_count": 12,
+  "exported_count": 12,
+  "beginning_count": 4,
+  "random_count": 8,
+  "reference_sizes": [
+    [
+      300,
+      270
+    ],
+    [
+      282,
+      265
+    ]
+  ],
+  "selected_width_range": [
+    268,
+    313
+  ],
+  "selected_height_range": [
+    252,
+    285
+  ],
+  "size_jitter": 0.08,
+  "max_excluded_fraction": 0.01,
+  "motion_gap_frames": 6,
+  "motion_guided_fraction": 0.5,
+  "candidate_multiplier": 3,
+  "patches_per_frame": 3,
+  "thumbnail_size": [
+    24,
+    24
+  ],
+  "pca_components": 4,
+  "quality_weight": 0.35,
+  "random_seed": 19,
+  "selection_groups": {
+    "beginning": {
+      "candidate_count": 12,
+      "selected_count": 4,
+      "frame_range": [
+        0,
+        1800
+      ],
+      "time_range_seconds": [
+        0.0,
+        30.0
+      ],
+      "pca_components_used": 4,
+      "pca_explained_variance_ratio_sum": 0.7772207856178284
+    },
+    "random": {
+      "candidate_count": 24,
+      "selected_count": 8,
+      "frame_range": [
+        1800,
+        7200
+      ],
+      "time_range_seconds": [
+        30.0,
+        120.0
+      ],
+      "pca_components_used": 4,
+      "pca_explained_variance_ratio_sum": 0.7029589414596558
+    }
+  },
+  "seconds": 17.174328804016113
+}

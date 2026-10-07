@@ -1,0 +1,71 @@
+{
+  "checkpoint": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\checkpoints\\ant_detector_mobilenet_round2_reset_best.pt",
+  "annotations": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\Type1_Vid1_combined_coco.json",
+  "images_dir": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs",
+  "evaluation_scope": "These metrics are out-of-sample only when the evaluated images were excluded from detector training.",
+  "device": "cuda",
+  "amp": "float16",
+  "model_config": {
+    "architecture": "mobilenet_v3_fpn",
+    "num_classes": 2,
+    "min_size": 768,
+    "max_size": 1280,
+    "pretrained_backbone": false,
+    "pretrained_detector": false,
+    "box_detections_per_img": 300
+  },
+  "image_count": 375,
+  "positive_image_count": 171,
+  "empty_image_count": 204,
+  "ground_truth_boxes": 171,
+  "candidate_score_threshold": 0.05,
+  "score_threshold": 0.3,
+  "iou_threshold": 0.5,
+  "predictions": 15,
+  "true_positives": 4,
+  "false_positives": 11,
+  "false_negatives": 167,
+  "precision": 0.26666666666666666,
+  "recall": 0.023391812865497075,
+  "f1": 0.04301075268817204,
+  "average_precision": 0.01208305316135868,
+  "best_f1_operating_point": {
+    "score_threshold": 0.07675297558307648,
+    "predictions": 63,
+    "true_positives": 9,
+    "false_positives": 54,
+    "false_negatives": 162,
+    "precision": 0.14285714285714285,
+    "recall": 0.05263157894736842,
+    "f1": 0.07692307692307693
+  },
+  "per_roi": {
+    "roi_001": {
+      "images": 249,
+      "ground_truth": 171,
+      "predictions": 15,
+      "true_positives": 4,
+      "false_positives": 11,
+      "false_negatives": 167,
+      "precision": 0.26666666666666666,
+      "recall": 0.023391812865497075,
+      "f1": 0.04301075268817204
+    },
+    "roi_002": {
+      "images": 126,
+      "ground_truth": 0,
+      "predictions": 0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "model_load_seconds": 0.6465848999941954,
+  "model_inference_seconds": 31.908768200024497,
+  "evaluation_seconds": 33.15250200001174,
+  "model_images_per_second": 11.75225560727575,
+  "end_to_end_images_per_second": 11.311363468128809
+}

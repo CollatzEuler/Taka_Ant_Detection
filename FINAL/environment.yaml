@@ -1,0 +1,23 @@
+name: taka-env
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip>=25
+  - setuptools<82
+  - wheel
+  - tk>=8.6
+  - numpy>=2,<3
+  - scipy>=1.14,<2
+  - pillow=11.3
+  - openpyxl>=3.1
+  - pytest>=8,<10
+  - pip:
+      # CUDA 12.8 wheels are verified on this machine's GTX 1650 Ti.
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.11.0+cu128
+      - torchvision==0.26.0+cu128
+      - opencv-python==5.0.0.93

@@ -1,0 +1,53 @@
+{
+  "project_version": 1,
+  "manifest_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\outputs\\verification\\labels\\frame_manifest.csv",
+  "images_dir": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\outputs\\verification\\labels\\selected_frames",
+  "images": [
+    {
+      "image_id": 1,
+      "file_name": "Type1_Vid1_roi_roi_001_frame_0000000.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\outputs\\verification\\labels\\selected_frames\\Type1_Vid1_roi_roi_001_frame_0000000.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 0,
+      "source_time_seconds": 0.0,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\outputs\\verification\\roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 1,
+      "annotations": [
+        {
+          "bbox": [
+            10,
+            10,
+            20,
+            20
+          ],
+          "identity": null
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "file_name": "Type1_Vid1_roi_roi_001_frame_0000030.png",
+      "image_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\outputs\\verification\\labels\\selected_frames\\Type1_Vid1_roi_roi_001_frame_0000030.png",
+      "width": 300,
+      "height": 270,
+      "video_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+      "source_frame_index": 30,
+      "source_time_seconds": 0.5,
+      "roi_json": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\outputs\\verification\\roi.json",
+      "roi_id": "roi_001",
+      "roi_x": 790,
+      "roi_y": 1420,
+      "roi_width": 300,
+      "roi_height": 270,
+      "cluster_id": 0,
+      "annotations": []
+    }
+  ]
+}

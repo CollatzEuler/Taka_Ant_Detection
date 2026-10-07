@@ -1,0 +1,13 @@
+{
+  "exclusion_version": 1,
+  "source_video": "C:\\Users\\colla\\Documents\\Research\\Taka\\Videos\\Type1_Vid1.mp4",
+  "representative_frame_index": 5645,
+  "frame_width": 3840,
+  "frame_height": 2160,
+  "mask_path": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\long_video_exclusions_mask.png",
+  "preview_image": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\long_video_exclusions_preview.png",
+  "representative_frame": "C:\\Users\\colla\\Documents\\Research\\Taka\\FINAL\\runs\\long_video_exclusions_representative.png",
+  "mask_semantics": "255=allowed, 0=excluded",
+  "blocked_pixel_count": 1607139,
+  "blocked_fraction": 0.1937619357638889
+}
